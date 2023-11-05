@@ -9,8 +9,5 @@
         <module name="JobRecSoftware" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="JobRecSoftware" target="17" />
-    </bytecodeTargetLevel>
   </component>
 </project>
